@@ -1,3 +1,3 @@
-Research Data Management (RDM) Exercise
+# Research Data Management (RDM) Exercise
 
 This repository contains materials for a Research Data Management (RDM) class exercise using survey epidemiology datasets. It includes one R script and three example Stata (.dta) datasets that guide students through basic data management tasks, including importing data, cleaning and recoding variables, handling missing or inconsistent values, organizing datasets, and performing simple descriptive analyses. The exercise is designed to introduce fundamental RDM principles and reproducible data management practices while providing hands-on experience with real-world epidemiological survey data.
